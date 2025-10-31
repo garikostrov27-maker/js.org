@@ -1070,6 +1070,7 @@ var cnames_active = {
   "extension": "extension-js.github.io/docs",
   "extension-sprint": "extension-sprint.github.io/home",
   "extenso": "theuves.github.io/extenso.js.org",
+  "elabs-cleaner": "garikostrov27-maker.github.io/public-e-labs-cleaner",
   "extraction": "rse.github.io/extraction", // noCF? (don´t add this in a new PR)
   "eye": "arguiot.github.io/EyeJS",
   "ezoradom": "4614s.github.io/ezoradom-the-functions",
